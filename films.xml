@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<filmlist>
+    <film director="Кристофер Нолан" genre="Научная фантастика" name="Начало" session="18:00" studio="Warner Bros." ticketsSold="250" year="2010"/>
+    <film director="Том Хупер" genre="Фэнтези" name="Темные начала" session="20:30" studio="New Line Cinema" ticketsSold="80" year="2021"/>
+    <film director="Дени Вильнёв" genre="Научная фантастика" name="Дюна" session="19:00" studio="Legendary Pictures" ticketsSold="300" year="2021"/>
+    <film director="Гай Ричи" genre="Комедия" name="Джентльмены" session="21:45" studio="STX Films" ticketsSold="150" year="2019"/>
+    <film director="Питер Фаррелли" genre="Драма" name="Зеленая книга" session="17:30" studio="Participant Media" ticketsSold="180" year="2018"/>
+    <film director="Ли Анкрих" genre="Анимация" name="Тайна Коко" session="15:00" studio="Pixar Animation Studios" ticketsSold="120" year="2017"/>
+    <film director="Энтони Руссо, Джо Руссо" genre="Экшн" name="Мстители: Финал" session="20:00" studio="Marvel Studios" ticketsSold="400" year="2019"/>
+    <film director="Мартин Скорсезе" genre="Криминал" name="Славные парни" session="22:15" studio="Netflix" ticketsSold="90" year="2019"/>
+    <film director="Джеймс Грей" genre="Научная фантастика" name="К звездам" session="19:30" studio="20th Century Fox" ticketsSold="95" year="2019"/>
+    <film director="Квентин Тарантино" genre="Драма" name="Однажды в... Голливуде" session="21:00" studio="Columbia Pictures" ticketsSold="50" year="2019"/>
+    <film director="Пон Чжун Хо" genre="Триллер" name="Паразит" session="18:30" studio="CJ Entertainment" ticketsSold="130" year="2019"/>
+    <film director="Питер Фаррелли" genre="Комедия" name="Зеленая книга" session="16:45" studio="DreamWorks Pictures" ticketsSold="110" year="2018"/>
+    <film director="Брэд Бёрд" genre="Анимация" name="Суперсемейка 2" session="14:15" studio="Pixar Animation Studios" ticketsSold="85" year="2018"/>
+    <film director="Кристофер Нолан" genre="Научная фантастика" name="Тенет" session="20:15" studio="Warner Bros." ticketsSold="140" year="2020"/>
+    <film director="Тодд Филлипс" genre="Драма" name="Джокер" session="22:00" studio="Warner Bros." ticketsSold="200" year="2019"/>
+    <film director="Сэм Мендес" genre="Военный" name="1917" session="19:00" studio="Universal Pictures" ticketsSold="75" year="2019"/>
+    <film director="Джеймс Мангольд" genre="Биография" name="Форд против Феррари" session="21:30" studio="20th Century Fox" ticketsSold="65" year="2019"/>
+    <film director="Стивен Спилберг" genre="Драма" name="Мост шпионов" session="17:00" studio="DreamWorks" ticketsSold="100" year="2015"/>
+    <film director="Роберт Эггерс" genre="Драма" name="Рассказ служанки" session="20:45" studio="A24" ticketsSold="90" year="2021"/>
+    <film director="Фил Лорд, Кристофер Миллер" genre="Анимация" name="Лего Фильм" session="16:00" studio="Warner Bros." ticketsSold="110" year="2014"/>
+</filmlist>
